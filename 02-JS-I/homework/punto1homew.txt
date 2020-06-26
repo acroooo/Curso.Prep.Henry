@@ -1,0 +1,15 @@
+EXPLICACIONES
+
+VARIABLES: forma de guardar datos para poder utilizarlos mas tarde, pueden cambiar con el transcurso del tiempo, ya que su nombre indica que no son fijos.
+
+STRINGS: Como su nombre lo indica son cadenas en inglés, de texto, encerradas entre comillas simples o dobles.
+
+FUNCIONES: son instrucciones del lenguaje ordenadas, formadas por la palabra clave FUNCTION, argumentos y sentencias. Los argumentos son la parte de la funcion
+que explicita los valores de los argumentos que se pasan a la función. RETURN es una sentencia, que finaliza la función y especifica un valor a ser 
+retornado por la llamada a la función
+
+DECLARACIONES IF: las declaraciones if son condicionales, un tipo de construcción en la que se nos pide un argumento a comprobar y que hacemos en base a 
+si ese argumento es true o false.
+
+VALORES BOOLEANOS: Parte de la lógica de boole, esenciales en el estudio de la informática. En ella se encuentran los 0 y 1, que a su vez pueden significar
+como en nuestro caso, positivo y negativo.
